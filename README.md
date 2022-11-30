@@ -2,11 +2,11 @@
 
 ## 版本
 
-[0.8.7](0.8.3)
+[0.8.7](/guoshuohui/Hackintosh-MSI-MAG-B460M-MORTAR/0.8.3)
 
-[0.8.4](main)
+[0.8.4](/guoshuohui/Hackintosh-MSI-MAG-B460M-MORTAR/main)
 
-[0.8.3](0.8.3)
+[0.8.3](/guoshuohui/Hackintosh-MSI-MAG-B460M-MORTAR/0.8.3)
 
 ## 简介
 
