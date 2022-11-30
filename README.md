@@ -1,5 +1,13 @@
 # 微星 B460M 迫击炮 + i5 10400
 
+## 版本
+
+[0.8.7](0.8.3)
+
+[0.8.4](main)
+
+[0.8.3](0.8.3)
+
 ## 简介
 
 该 EFI 基于 `XIII` 的 [OC 0.8.3 Dev](https://heipg.cn/efi/msi-b460m-mortar-i5-10500-uhd630-rx570-opencore-083-dev.html) 修改，他已不再维护，为了能 “完美” 匹配最新的 [Monterey 12.5.1 OC 0.8.4 Dev](https://heipg.cn/macos/macos-monterey-12-5-1-21g83-opencore-084-clover-r5148-firpe.html) 引导镜像，我对其 EFI 的 `OC` 和 `Kexts` 进行了升级，下载和安装之前，请 `仔细` 阅读本文所有内容，特别是 `注入三码` 和 `USB定制`。
